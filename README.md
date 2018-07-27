@@ -10,6 +10,7 @@ Repo enlisting Machine Learning datasets from Nepalese Researchers.
 - [DHCD dataset](https://github.com/Prasanna1991/DHCD_Dataset): A dataset of Devnagari (Nepali) handwritten characters
 - [License Plate Recognition (LPR) dataset](https://github.com/Prasanna1991/LPR): Nepali Motorbike License plate dataset
 - [Nepali Characters Dataset](https://github.com/InspiringLab/NCD)
+- [Nepali Fonts OCR Dataset](https://github.com/BasantaChaulagain/Nepscan/tree/master/resources)
 - [Vehicles Dataset](https://github.com/sdevkota007/vehicles-nepal-dataset): 4800 images of two-wheeler and four-wheeler vehicles from Nepal
 
 ## Language
