@@ -8,6 +8,7 @@ Repo enlisting Machine Learning datasets from Nepalese Researchers.
 - [Cash Dataset](https://drive.google.com/drive/folders/1GxITXrk13ehKMEMEbpi8mRsFSr4LUR55): Image of Nepalese currency
 - [DHCD dataset](https://github.com/Prasanna1991/DHCD_Dataset): A dataset of Devnagari (Nepali) handwritten characters
 - [License Plate Recognition (LPR) dataset](https://github.com/Prasanna1991/LPR): Nepali Motorbike License plate dataset
+- [Vehicles Dataset](https://github.com/sdevkota007/vehicles-nepal-dataset): 4800 images of two-wheeler and four-wheeler vehicles from Nepal
 
 ## Language
 - [16NepaliNews Corpus](https://github.com/sndsabin/Nepali-News-Classifier): 14,364 Nepali language news documents
