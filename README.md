@@ -3,6 +3,7 @@ Repo enlisting Machine Learning datasets from Nepalese Researchers.
 
 ## Audio
 - [Devanagiri Numbers(०-९) Spoken Audio](https://drive.google.com/drive/folders/15g57Qa1TQa4Ix6-MiC6v1wieouqp0XAl)
+- [Nepali ASR training data set](http://www.openslr.org/54): Nepali ASR training data set containing ~157K utterances
 
 ## Image
 - [Cash Dataset](https://drive.google.com/drive/folders/1GxITXrk13ehKMEMEbpi8mRsFSr4LUR55): Image of Nepalese currency
