@@ -18,6 +18,7 @@ Repo enlisting Machine Learning datasets from Nepalese Researchers.
 
 ## Language
 - [16NepaliNews Corpus](https://github.com/sndsabin/Nepali-News-Classifier): 14,364 Nepali language news documents
+- [65K Nepali Sentences](https://github.com/sanjaalcorps/NepaliDataSets/blob/master/raw_sentences_np_65k.csv)
 - [Nepali Chat Corpus](https://github.com/itsmeashutosh43/create-a-Open-Source-Nepali-Chat-corpus-)
 - [Nepali Ngram](https://github.com/virtualanup/nepalingram)
 - [Nepali Stopwords](https://github.com/sanjaalcorps/NepaliStopWords/blob/master/NepaliStopWords.txt)
