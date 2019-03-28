@@ -18,14 +18,20 @@ Repo enlisting Machine Learning datasets from Nepalese Researchers.
 - [License Plate Recognition (LPR) dataset](https://github.com/Prasanna1991/LPR): Nepali Motorbike License plate dataset
 - [Nepali Characters Dataset](https://github.com/InspiringLab/NCD)
 - [Nepali Fonts OCR Dataset](https://github.com/BasantaChaulagain/Nepscan/tree/master/resources)
+- [Nepali Handwritten Digits](https://github.com/kcnishan/Nepali_handwritten_digits_recognition/tree/master/dataset)
 - [Vehicles Dataset](https://github.com/sdevkota007/vehicles-nepal-dataset): 4800 images of two-wheeler and four-wheeler vehicles from Nepal
 
 ## Language
 - [16NepaliNews Corpus](https://github.com/sndsabin/Nepali-News-Classifier): 14,364 Nepali language news documents
 - [65K Nepali Sentences](https://github.com/sanjaalcorps/NepaliDataSets/blob/master/raw_sentences_np_65k.csv)
 - [Nepali Chat Corpus](https://github.com/itsmeashutosh43/create-a-Open-Source-Nepali-Chat-corpus-)
+- [Nagarik News Corpus](https://github.com/ashmitbhattarai/Nepali-Language-Modeling-Using-LSTM/tree/master/Nepali_Corpus/Nagarik)
+- [Setopati News Corpus](https://github.com/ashmitbhattarai/Nepali-Language-Modeling-Using-LSTM/tree/master/Nepali_Corpus/SetoPati)
+- [Laxmi Prasad Devkota Poems](https://github.com/devkotasawal1/Poem-Generator/blob/master/lspd.txt): Collection of poems of Laxmi Prasad Devkota and contains 119161 characters.
+- [Nepali Names](https://github.com/datafiction/oya-nepali-nlp/blob/master/data/names/Nepali.txt)
 - [Nepali News Classification Dataset](https://drive.google.com/drive/folders/1Vm0UJ3FfWP-3guSan3FZsOV4q7rYuJIG)
 - [Nepali Ngram](https://github.com/virtualanup/nepalingram)
 - [Nepali Stopwords](https://github.com/sanjaalcorps/NepaliStopWords/blob/master/NepaliStopWords.txt)
 - [Nepali Wikipedia Articles Dataset](https://drive.google.com/open?id=1Yh8BlJ5bydbvZaOQEmRPlTEDZjIIoAYN)
 - [Nepali Word List](https://github.com/tesseract-ocr/langdata/blob/master/nep/nep.wordlist)
+- [Nepali transliteration](https://github.com/AchillesKarki/NepaliLipi)
