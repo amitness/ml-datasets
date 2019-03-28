@@ -12,6 +12,7 @@ Repo enlisting Machine Learning datasets from Nepalese Researchers.
 - [Dristhi Air Pollution Data](https://github.com/hbvj99/DristhiAirPollution)
 
 ## Image
+- [Voting Ballot Paper Dataset](https://github.com/rajshreeee/image_classification_for_voting_system_using_cnn)
 - [Cash Dataset](https://drive.google.com/drive/folders/1GxITXrk13ehKMEMEbpi8mRsFSr4LUR55): Image of Nepalese currency
 - [Images of 10, 50 & 100 rupee notes](https://github.com/mmanishh/nrscurrencyrecognizer/tree/master/data/train)
 - [DHCD dataset](https://github.com/Prasanna1991/DHCD_Dataset): A dataset of Devnagari (Nepali) handwritten characters
