@@ -7,6 +7,9 @@ Repo enlisting Machine Learning datasets from Nepalese Researchers.
 
 ## Health
 - [Health Diseases in Nepali](https://github.com/sanjaalcorps/NepaliDataClassifiers/blob/master/HealthClassifiers.txt)
+- [EPA Air Pollution Data](https://github.com/hbvj99/EPAAirPollution)
+- [Nepal Government Air Pollution Data](https://github.com/hbvj99/NPGovAirPollution)
+- [Dristhi Air Pollution Data](https://github.com/hbvj99/DristhiAirPollution)
 
 ## Image
 - [Cash Dataset](https://drive.google.com/drive/folders/1GxITXrk13ehKMEMEbpi8mRsFSr4LUR55): Image of Nepalese currency
