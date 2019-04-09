@@ -36,3 +36,4 @@ Repo enlisting Machine Learning datasets from Nepalese Researchers.
 - [Nepali Wikipedia Articles Dataset](https://drive.google.com/open?id=1Yh8BlJ5bydbvZaOQEmRPlTEDZjIIoAYN)
 - [Nepali Word List](https://github.com/tesseract-ocr/langdata/blob/master/nep/nep.wordlist)
 - [Nepali transliteration](https://github.com/AchillesKarki/NepaliLipi)
+- [Nepali Textbooks](https://ecommons.cornell.edu/handle/1813/24179): Collection of school textbooks from Nepal assembled by Professor of Anthropology Kathryn March over the last 30 years.
