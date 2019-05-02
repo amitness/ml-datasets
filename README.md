@@ -4,7 +4,8 @@ Repo enlisting Machine Learning datasets from Nepalese Researchers.
 ## Audio
 - [Devanagiri Numbers(०-९) Spoken Audio](https://drive.google.com/drive/folders/15g57Qa1TQa4Ix6-MiC6v1wieouqp0XAl)
 - [Nepali ASR training data set](http://www.openslr.org/54): Nepali ASR training data set containing ~157K utterances
-- [Nepali Text to Speech](https://github.com/meamit/nepali-text-to-speech/tree/master/speechdb)
+- [Nepali Text to Speech: Dataset 1](https://github.com/meamit/nepali-text-to-speech/tree/master/speechdb)
+- [Nepali Text to Speech: Dataset 2](https://github.com/anuragregmi/speak_nepali/tree/master/sounds)
 
 ## Health
 - [Health Diseases in Nepali](https://github.com/sanjaalcorps/NepaliDataClassifiers/blob/master/HealthClassifiers.txt)
