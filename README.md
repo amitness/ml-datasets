@@ -7,6 +7,9 @@ Repo enlisting Machine Learning datasets from Nepalese Researchers.
 - [Nepali Text to Speech: Dataset 1](https://github.com/meamit/nepali-text-to-speech/tree/master/speechdb)
 - [Nepali Text to Speech: Dataset 2](https://github.com/anuragregmi/speak_nepali/tree/master/sounds)
 
+## Disaster
+- [Earthquake Building Damage Levels](https://www.drivendata.org/competitions/57/nepal-earthquake/page/136/)
+
 ## Health
 - [Health Diseases in Nepali](https://github.com/sanjaalcorps/NepaliDataClassifiers/blob/master/HealthClassifiers.txt)
 - [EPA Air Pollution Data](https://github.com/hbvj99/EPAAirPollution)
