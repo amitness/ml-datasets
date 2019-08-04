@@ -35,6 +35,7 @@ Repo enlisting Machine Learning datasets from Nepalese Researchers.
 ## Text
 - [16NepaliNews Corpus](https://github.com/sndsabin/Nepali-News-Classifier): 14,364 Nepali language news documents
 - [65K Nepali Sentences](https://github.com/sanjaalcorps/NepaliDataSets/blob/master/raw_sentences_np_65k.csv)
+- [Nepali Translation Parallel Corpus](https://drive.google.com/file/d/1UThfJKJFvDgTu263DNbz-WPNLqoARZ_0/view)
 - [Nepal Earthquake Tweets](https://crisisnlp.qcri.org/lrec2016/content/2015_nepal_eq.html)
 - [Nepali Chat Corpus](https://github.com/itsmeashutosh43/create-a-Open-Source-Nepali-Chat-corpus-)
 - [Nagarik News Corpus](https://github.com/ashmitbhattarai/Nepali-Language-Modeling-Using-LSTM/tree/master/Nepali_Corpus/Nagarik)
@@ -51,3 +52,7 @@ Repo enlisting Machine Learning datasets from Nepalese Researchers.
 - [Nepali Textbooks](https://ecommons.cornell.edu/handle/1813/24179): Collection of school textbooks from Nepal assembled by Professor of Anthropology Kathryn March over the last 30 years.
 - [Nepali Word2Vec](https://github.com/rabindralamsal/Word2Vec-Embeddings-for-Nepali-Language)
 - [Nepali Spelling Correction Dataset](https://github.com/tnagorra/nspell/tree/master/data)
+- [Nepali Contemporary Dictionary](http://ltk.org.np/nepalisabdakos/dict/np_dictionary_db.sql.gz)
+- [80,00,000+ Nepali Wordlist](https://github.com/prabinzz/nepali-wordlist)
+- [English to Nepali dictionary](https://github.com/nirooj56/Nepdict/blob/master/database/data.csv)
+- [Nepali Movies on IMDB](https://github.com/NISH1001/nepalimdb/blob/master/data/nepali-movies.json)
