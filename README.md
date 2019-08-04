@@ -16,9 +16,13 @@ Repo enlisting Machine Learning datasets from Nepalese Researchers.
 
 ## Health
 - [Health Diseases in Nepali](https://github.com/sanjaalcorps/NepaliDataClassifiers/blob/master/HealthClassifiers.txt)
+
+## Real Time Sensor Data
 - [EPA Air Pollution Data](https://github.com/hbvj99/EPAAirPollution)
 - [Nepal Government Air Pollution Data](https://github.com/hbvj99/NPGovAirPollution)
 - [Dristhi Air Pollution Data](https://github.com/hbvj99/DristhiAirPollution)
+- [River Level Data](http://www.hydrology.gov.np)
+- [Vegetable/Fruit Price Information](http://kalimatimarket.gov.np/daily-price-information)
 
 ## Image
 - [Voting Ballot Paper Dataset](https://github.com/rajshreeee/image_classification_for_voting_system_using_cnn)
