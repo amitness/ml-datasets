@@ -31,7 +31,7 @@ Repo enlisting Machine Learning datasets from Nepalese Researchers.
 - [Nepali Handwritten Digits](https://github.com/kcnishan/Nepali_handwritten_digits_recognition/tree/master/dataset)
 - [Vehicles Dataset](https://github.com/sdevkota007/vehicles-nepal-dataset): 4800 images of two-wheeler and four-wheeler vehicles from Nepal
 
-## Language
+## Text
 - [16NepaliNews Corpus](https://github.com/sndsabin/Nepali-News-Classifier): 14,364 Nepali language news documents
 - [65K Nepali Sentences](https://github.com/sanjaalcorps/NepaliDataSets/blob/master/raw_sentences_np_65k.csv)
 - [Nepal Earthquake Tweets](https://crisisnlp.qcri.org/lrec2016/content/2015_nepal_eq.html)
@@ -40,6 +40,7 @@ Repo enlisting Machine Learning datasets from Nepalese Researchers.
 - [Setopati News Corpus](https://github.com/ashmitbhattarai/Nepali-Language-Modeling-Using-LSTM/tree/master/Nepali_Corpus/SetoPati)
 - [Laxmi Prasad Devkota Poems](https://github.com/devkotasawal1/Poem-Generator/blob/master/lspd.txt): Collection of poems of Laxmi Prasad Devkota and contains 119161 characters.
 - [Nepali Names](https://github.com/datafiction/oya-nepali-nlp/blob/master/data/names/Nepali.txt)
+- [Dummy Nepali People Information](https://github.com/bibhuticoder/dummydata/blob/master/data.csv)
 - [Nepali News Classification Dataset](https://drive.google.com/drive/folders/1Vm0UJ3FfWP-3guSan3FZsOV4q7rYuJIG)
 - [Nepali Ngram](https://github.com/virtualanup/nepalingram)
 - [Nepali Stopwords](https://github.com/sanjaalcorps/NepaliStopWords/blob/master/NepaliStopWords.txt)
