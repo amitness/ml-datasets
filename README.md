@@ -23,6 +23,7 @@ Repo enlisting Machine Learning datasets from Nepalese Researchers.
 - [Dristhi Air Pollution Data](https://github.com/hbvj99/DristhiAirPollution)
 - [River Level Data](http://www.hydrology.gov.np)
 - [Vegetable/Fruit Price Information](http://kalimatimarket.gov.np/daily-price-information)
+- [Location of Mahanagar Yatayat in Realtime](https://github.com/theonlyNischal/Track-Mahanagar-Yatayat)
 
 ## Image
 - [Voting Ballot Paper Dataset](https://github.com/rajshreeee/image_classification_for_voting_system_using_cnn)
