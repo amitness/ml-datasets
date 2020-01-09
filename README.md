@@ -14,6 +14,9 @@ Repo enlisting Machine Learning datasets from Nepalese Researchers.
 ## Finance
 - [Nepal Rastra Bank Forex Rate API](https://www.nrb.org.np/exportForexJSON.php?YY=2019&MM=08&DD=01&YY1=2019&MM1=08&DD1=02)
 
+## Geography
+- [Metadata extracted from Open Street Maps](https://github.com/sharad461/nepal-openstreetmap-extract)
+
 ## Health
 - [Health Diseases in Nepali](https://github.com/sanjaalcorps/NepaliDataClassifiers/blob/master/HealthClassifiers.txt)
 
