@@ -43,6 +43,7 @@ Repo enlisting Machine Learning datasets from Nepalese Researchers.
 ## Text
 - [16NepaliNews Corpus](https://github.com/sndsabin/Nepali-News-Classifier): 14,364 Nepali language news documents
 - [65K Nepali Sentences](https://github.com/sanjaalcorps/NepaliDataSets/blob/master/raw_sentences_np_65k.csv)
+- [1000 Sport News](https://github.com/Aryal007/nepali_text_generation/blob/master/data/sports_news_nepali_1000.txt)
 - [Nepali Translation Parallel Corpus](https://drive.google.com/file/d/1UThfJKJFvDgTu263DNbz-WPNLqoARZ_0/view)
 - [Nepali English Machine Translation Corpus](https://github.com/facebookresearch/flores)
 - [Nepal Earthquake Tweets](https://crisisnlp.qcri.org/lrec2016/content/2015_nepal_eq.html)
