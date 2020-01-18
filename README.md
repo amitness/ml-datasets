@@ -1,12 +1,10 @@
 # ml-datasets
-Repo enlisting Machine Learning datasets from Nepalese Researchers.
+Curated list of Machine Learning datasets from Nepalese Researchers.
 
 ## Audio
 - [Devanagiri Numbers(०-९) Spoken Audio](https://drive.google.com/drive/folders/15g57Qa1TQa4Ix6-MiC6v1wieouqp0XAl)
 - [Nepali ASR training data set](http://www.openslr.org/54): Nepali ASR training data set containing ~157K utterances
-- [Nepali Text to Speech: Dataset 1](https://github.com/meamit/nepali-text-to-speech/tree/master/speechdb)
-- [Nepali Text to Speech: Dataset 2](https://github.com/anuragregmi/speak_nepali/tree/master/sounds)
-- [Nepali Text to Speech: Dataset 3](https://github.com/hcoebct069/nepali-asr/tree/master/recordings)
+- Nepali Text to Speech: [Dataset 1](https://github.com/meamit/nepali-text-to-speech/tree/master/speechdb), [Dataset 2](https://github.com/anuragregmi/speak_nepali/tree/master/sounds), [Dataset 3](https://github.com/hcoebct069/nepali-asr/tree/master/recordings)
 
 ## Disaster
 - [Earthquake Building Damage Levels](https://www.drivendata.org/competitions/57/nepal-earthquake/page/136/)
@@ -21,18 +19,16 @@ Repo enlisting Machine Learning datasets from Nepalese Researchers.
 - [Health Diseases in Nepali](https://github.com/sanjaalcorps/NepaliDataClassifiers/blob/master/HealthClassifiers.txt)
 
 ## Real Time Sensor Data
-- [EPA Air Pollution Data](https://github.com/hbvj99/EPAAirPollution)
-- [Nepal Government Air Pollution Data](https://github.com/hbvj99/NPGovAirPollution)
-- [Dristhi Air Pollution Data](https://github.com/hbvj99/DristhiAirPollution)
+- Air Pollution: [EPA Air Pollution Data](https://github.com/hbvj99/EPAAirPollution), [Nepal Government Air Pollution Data](https://github.com/hbvj99/NPGovAirPollution), [Dristhi Air Pollution Data](https://github.com/hbvj99/DristhiAirPollution)
 - [River Level Data](http://www.hydrology.gov.np)
-- [Vegetable/Fruit Price Information](http://kalimatimarket.gov.np/daily-price-information)
+- [Daily Vegetable/Fruit Price Information](http://kalimatimarket.gov.np/daily-price-information)
 - [Location of Mahanagar Yatayat in Realtime](https://github.com/theonlyNischal/Track-Mahanagar-Yatayat)
 
 ## Image
 - [Voting Ballot Paper Dataset](https://github.com/rajshreeee/image_classification_for_voting_system_using_cnn)
-- [Cash Dataset](https://drive.google.com/drive/folders/1GxITXrk13ehKMEMEbpi8mRsFSr4LUR55): Image of Nepalese currency
+- Nepalese currency: [Cash Dataset](https://drive.google.com/drive/folders/1GxITXrk13ehKMEMEbpi8mRsFSr4LUR55), [Images of 10, 50 & 100 rupee notes](https://github.com/mmanishh/nrscurrencyrecognizer/tree/master/data/train)
 - [Faces of Famous People from Nepal](https://www.thefamouspeople.com/nepal.php)
-- [Images of 10, 50 & 100 rupee notes](https://github.com/mmanishh/nrscurrencyrecognizer/tree/master/data/train)
+- 
 - [DHCD dataset](https://github.com/Prasanna1991/DHCD_Dataset): A dataset of Devnagari (Nepali) handwritten characters
 - [License Plate Recognition (LPR) dataset](https://github.com/Prasanna1991/LPR): Nepali Motorbike License plate dataset
 - [Nepali Characters Dataset](https://github.com/InspiringLab/NCD)
@@ -51,7 +47,7 @@ Repo enlisting Machine Learning datasets from Nepalese Researchers.
 - [Nepali Chat Corpus](https://github.com/itsmeashutosh43/create-a-Open-Source-Nepali-Chat-corpus-)
 - [Nagarik News Corpus](https://github.com/ashmitbhattarai/Nepali-Language-Modeling-Using-LSTM/tree/master/Nepali_Corpus/Nagarik)
 - [Setopati News Corpus](https://github.com/ashmitbhattarai/Nepali-Language-Modeling-Using-LSTM/tree/master/Nepali_Corpus/SetoPati)
-- [English Corpus](https://github.com/sharad461/english-corpus-nepal)
+- [Nepali news in English Corpus](https://github.com/sharad461/english-corpus-nepal)
 - [Laxmi Prasad Devkota Poems](https://github.com/devkotasawal1/Poem-Generator/blob/master/lspd.txt): Collection of poems of Laxmi Prasad Devkota and contains 119161 characters.
 - [Nepali Names](https://github.com/datafiction/oya-nepali-nlp/blob/master/data/names/Nepali.txt)
 - [Dummy Nepali People Information](https://github.com/bibhuticoder/dummydata/blob/master/data.csv)
