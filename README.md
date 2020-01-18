@@ -28,7 +28,6 @@ Curated list of Machine Learning datasets from Nepalese Researchers.
 - [Voting Ballot Paper Dataset](https://github.com/rajshreeee/image_classification_for_voting_system_using_cnn)
 - Nepalese currency: [Cash Dataset](https://drive.google.com/drive/folders/1GxITXrk13ehKMEMEbpi8mRsFSr4LUR55), [Images of 10, 50 & 100 rupee notes](https://github.com/mmanishh/nrscurrencyrecognizer/tree/master/data/train)
 - [Faces of Famous People from Nepal](https://www.thefamouspeople.com/nepal.php)
-- 
 - [DHCD dataset](https://github.com/Prasanna1991/DHCD_Dataset): A dataset of Devnagari (Nepali) handwritten characters
 - [License Plate Recognition (LPR) dataset](https://github.com/Prasanna1991/LPR): Nepali Motorbike License plate dataset
 - [Nepali Characters Dataset](https://github.com/InspiringLab/NCD)
