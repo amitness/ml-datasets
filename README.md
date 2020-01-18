@@ -13,7 +13,7 @@ Curated list of Machine Learning datasets from Nepalese Researchers.
 - [Nepal Rastra Bank Forex Rate API](https://www.nrb.org.np/exportForexJSON.php?YY=2019&MM=08&DD=01&YY1=2019&MM1=08&DD1=02)
 
 ## Geography
-- [Metadata extracted from Open Street Maps](https://github.com/sharad461/nepal-openstreetmap-extract)
+- [Metadata from Open Street Maps](https://github.com/sharad461/nepal-openstreetmap-extract)
 
 ## Health
 - [Health Diseases in Nepali](https://github.com/sanjaalcorps/NepaliDataClassifiers/blob/master/HealthClassifiers.txt)
@@ -46,7 +46,7 @@ Curated list of Machine Learning datasets from Nepalese Researchers.
 - [Nepali Chat Corpus](https://github.com/itsmeashutosh43/create-a-Open-Source-Nepali-Chat-corpus-)
 - [Nagarik News Corpus](https://github.com/ashmitbhattarai/Nepali-Language-Modeling-Using-LSTM/tree/master/Nepali_Corpus/Nagarik)
 - [Setopati News Corpus](https://github.com/ashmitbhattarai/Nepali-Language-Modeling-Using-LSTM/tree/master/Nepali_Corpus/SetoPati)
-- [Nepali news in English Corpus](https://github.com/sharad461/english-corpus-nepal)
+- [Nepali News in English Corpus](https://github.com/sharad461/english-corpus-nepal)
 - [Laxmi Prasad Devkota Poems](https://github.com/devkotasawal1/Poem-Generator/blob/master/lspd.txt): Collection of poems of Laxmi Prasad Devkota and contains 119161 characters.
 - [Nepali Names](https://github.com/datafiction/oya-nepali-nlp/blob/master/data/names/Nepali.txt)
 - [Dummy Nepali People Information](https://github.com/bibhuticoder/dummydata/blob/master/data.csv)
