@@ -23,6 +23,7 @@ Curated list of Machine Learning datasets from Nepalese Researchers.
 - [River Level Data](http://www.hydrology.gov.np)
 - [Daily Vegetable/Fruit Price Information](http://kalimatimarket.gov.np/daily-price-information)
 - [Location of Mahanagar Yatayat in Realtime](https://github.com/theonlyNischal/Track-Mahanagar-Yatayat)
+- Tribhuwan International Airport: [Realtime Flight Arrival List](http://tiairport.com.np/flight_details), [Realtime Flight Departure List](http://tiairport.com.np/flight_details_2)
 
 ## Image
 - [Voting Ballot Paper Dataset](https://github.com/rajshreeee/image_classification_for_voting_system_using_cnn)
