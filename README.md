@@ -43,6 +43,7 @@ Curated list of Machine Learning datasets from Nepalese Researchers.
 - [1000 Sport News](https://github.com/Aryal007/nepali_text_generation/blob/master/data/sports_news_nepali_1000.txt)
 - [Nepali Translation Parallel Corpus](https://drive.google.com/file/d/1UThfJKJFvDgTu263DNbz-WPNLqoARZ_0/view)
 - [Nepali English Machine Translation Corpus](https://github.com/facebookresearch/flores)
+- [Nepali Abstractive Summarization Corpus: 286k article-title pairs from news](https://drive.google.com/file/d/1L56k0zonMk6XpelKAXPm45wCmt-9pS3x/view)
 - [Nepal Earthquake Tweets](https://crisisnlp.qcri.org/lrec2016/content/2015_nepal_eq.html)
 - [Nepali Chat Corpus](https://github.com/itsmeashutosh43/create-a-Open-Source-Nepali-Chat-corpus-)
 - [Nagarik News Corpus](https://github.com/ashmitbhattarai/Nepali-Language-Modeling-Using-LSTM/tree/master/Nepali_Corpus/Nagarik)
