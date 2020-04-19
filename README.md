@@ -11,6 +11,7 @@ Curated list of Machine Learning datasets from Nepalese Researchers.
 
 ## Finance
 - [Nepal Rastra Bank Forex Rate API](https://www.nrb.org.np/exportForexJSON.php?YY=2019&MM=08&DD=01&YY1=2019&MM1=08&DD1=02)
+- [Nepali Stock Market Dataset](https://www.kaggle.com/sagyamthapa/nepali-stock-market-form-2012-to-2020-till-march#2019-01-01.csv)
 
 ## Geography
 - [Metadata from Open Street Maps](https://github.com/sharad461/nepal-openstreetmap-extract)
