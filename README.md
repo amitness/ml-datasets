@@ -15,6 +15,7 @@ Curated list of Machine Learning datasets from Nepalese Researchers.
 
 ## Geography
 - [Metadata from Open Street Maps](https://github.com/sharad461/nepal-openstreetmap-extract)
+- [Nepal travel distance between cities (km)](https://data.world/hdx/d1d0c217-8c6b-4747-ab1e-1069e2ff3e6b)
 
 ## Health
 - [Health Diseases in Nepali](https://github.com/sanjaalcorps/NepaliDataClassifiers/blob/master/HealthClassifiers.txt)
