@@ -51,6 +51,7 @@ Curated list of Machine Learning datasets from Nepalese Researchers.
 - [Nagarik News Corpus](https://github.com/ashmitbhattarai/Nepali-Language-Modeling-Using-LSTM/tree/master/Nepali_Corpus/Nagarik)
 - [Setopati News Corpus](https://github.com/ashmitbhattarai/Nepali-Language-Modeling-Using-LSTM/tree/master/Nepali_Corpus/SetoPati)
 - [Nepali News in English Corpus](https://github.com/sharad461/english-corpus-nepal)
+- [Nepali News Dataset](https://github.com/kamalacharya2044/NepaliNewsDataset)
 - [Laxmi Prasad Devkota Poems](https://github.com/devkotasawal1/Poem-Generator/blob/master/lspd.txt): Collection of poems of Laxmi Prasad Devkota and contains 119161 characters.
 - [Nepali Names](https://github.com/datafiction/oya-nepali-nlp/blob/master/data/names/Nepali.txt)
 - [Dummy Nepali People Information](https://github.com/bibhuticoder/dummydata/blob/master/data.csv)
