@@ -62,6 +62,7 @@ Curated list of Machine Learning datasets from Nepalese Researchers.
 - [Nepali Word List](https://github.com/tesseract-ocr/langdata/blob/master/nep/nep.wordlist)
 - [Nepali transliteration](https://github.com/AchillesKarki/NepaliLipi)
 - [Nepali Textbooks](https://ecommons.cornell.edu/handle/1813/24179): Collection of school textbooks from Nepal assembled by Professor of Anthropology Kathryn March over the last 30 years.
+- [Nepali Textbooks from grade 1 to 12](http://lib.moecdc.gov.np/catalog/opac_css/index.php?lvl=cmspage&pageid=6&id_rubrique=105)
 - [Nepali Word2Vec](https://github.com/rabindralamsal/Word2Vec-Embeddings-for-Nepali-Language)
 - [Nepali Spelling Correction Dataset](https://github.com/tnagorra/nspell/tree/master/data)
 - [Nepali Contemporary Dictionary](http://ltk.org.np/nepalisabdakos/dict/np_dictionary_db.sql.gz)
