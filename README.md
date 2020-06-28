@@ -36,6 +36,7 @@ Curated list of Machine Learning datasets from Nepalese Researchers.
 - [Nepali Characters Dataset](https://github.com/InspiringLab/NCD)
 - [Nepali Fonts OCR Dataset](https://github.com/BasantaChaulagain/Nepscan/tree/master/resources)
 - [Nepali Handwritten Digits](https://github.com/kcnishan/Nepali_handwritten_digits_recognition/tree/master/dataset)
+- [Nepali Potraits](https://www.kaggle.com/sumansid/nepali-portraits-dataset)
 - [Vehicles Dataset](https://github.com/sdevkota007/vehicles-nepal-dataset): 4800 images of two-wheeler and four-wheeler vehicles from Nepal
 
 ## Text
