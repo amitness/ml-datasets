@@ -73,3 +73,4 @@ Curated list of Machine Learning datasets from Nepalese Researchers.
 - [Nepali Movies on IMDB](https://github.com/NISH1001/nepalimdb/blob/master/data/nepali-movies.json)
 - [SentiWordNet](https://github.com/wannamit/nep-SentiWord-py)
 - [Misspelling Correction Dictionary](https://github.com/sarojdhakal/Bhasha)
+- [Nepali Lemmatizer](https://github.com/dpakpdl/NepaliLemmatizer)
