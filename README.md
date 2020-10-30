@@ -75,3 +75,4 @@ Curated list of Machine Learning datasets from Nepalese Researchers.
 - [SentiWordNet](https://github.com/wannamit/nep-SentiWord-py)
 - [Misspelling Correction Dictionary](https://github.com/sarojdhakal/Bhasha)
 - [Nepali Lemmatizer](https://github.com/dpakpdl/NepaliLemmatizer)
+- [CC100](http://data.statmt.org/cc-100/ne.txt.xz)
