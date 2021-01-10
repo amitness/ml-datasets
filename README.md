@@ -77,3 +77,4 @@ Curated list of Machine Learning datasets from Nepalese Researchers.
 - [Misspelling Correction Dictionary](https://github.com/sarojdhakal/Bhasha)
 - [Nepali Lemmatizer](https://github.com/dpakpdl/NepaliLemmatizer)
 - [CC100](http://data.statmt.org/cc-100/ne.txt.xz)
+- [LINCE](https://ritual.uh.edu/lince/): Nepali-English Code Switching Dataset
