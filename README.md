@@ -44,6 +44,7 @@ Curated list of Machine Learning datasets from Nepalese Researchers.
 
 ## Text
 - [16NepaliNews Corpus](https://github.com/sndsabin/Nepali-News-Classifier): 14,364 Nepali language news documents
+- [A LARGE SCALE NEPALI TEXT CORPUS](https://ieee-dataport.org/open-access/large-scale-nepali-text-corpus)
 - [65K Nepali Sentences](https://github.com/sanjaalcorps/NepaliDataSets/blob/master/raw_sentences_np_65k.csv)
 - [39K Nepali Wikipedia Articles](https://www.kaggle.com/disisbig/nepali-wikipedia-articles)
 - [1000 Sport News](https://github.com/Aryal007/nepali_text_generation/blob/master/data/sports_news_nepali_1000.txt)
@@ -78,3 +79,6 @@ Curated list of Machine Learning datasets from Nepalese Researchers.
 - [Nepali Lemmatizer](https://github.com/dpakpdl/NepaliLemmatizer)
 - [CC100](http://data.statmt.org/cc-100/ne.txt.xz)
 - [LINCE](https://ritual.uh.edu/lince/): Nepali-English Code Switching Dataset
+- [Wordlists in Selected Languages of Nepal](https://github.com/lexibank/halenepal)
+- [Languages Resources for Nepal](https://language-resources-nepal.github.io/)
+- [Nepali National Corpus](https://www.sketchengine.eu/nepali-national-corpus/)
