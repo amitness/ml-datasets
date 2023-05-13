@@ -49,6 +49,7 @@ Curated list of Machine Learning datasets from Nepalese Researchers.
 - [A LARGE SCALE NEPALI TEXT CORPUS](https://ieee-dataport.org/open-access/large-scale-nepali-text-corpus)
 - [65K Nepali Sentences](https://github.com/sanjaalcorps/NepaliDataSets/blob/master/raw_sentences_np_65k.csv)
 - [39K Nepali Wikipedia Articles](https://www.kaggle.com/disisbig/nepali-wikipedia-articles)
+- [nepal-brihat-sabdakosh-json](https://github.com/bikashpadhikari/nepali-brihat-sabdakosh-json): A structured JSON dump of all 122,000 words of the Nepali Brihat Sabdakosh
 - [1000 Sport News](https://github.com/Aryal007/nepali_text_generation/blob/master/data/sports_news_nepali_1000.txt)
 - [Nepali Translation Parallel Corpus](https://drive.google.com/file/d/1UThfJKJFvDgTu263DNbz-WPNLqoARZ_0/view)
 - [Nepali English Machine Translation Corpus](https://github.com/facebookresearch/flores)
